@@ -7,3 +7,16 @@ Healthcare systems around the world have major problems with access to care and 
 Accordingly, the diagnostic process is generally not optimized for good outcomes, but rather for patient throughput. For non-obvious cases, this often results in a wait and see approach with minimal investigation, until the condition becomes catastrophic. This approach causes a lot of harm and suffering. A study published by BMJ found the rate of medical diagnostic errors in outpatient settings to be more than 5%, of which half were estimated to potentially cause harm. There is currently limited accountability for diagnostic errors outside of malpractice lawsuits. 
 
 Another major issue is the lack of portability and patient control of medical records. It is a tedious and error-prone process to transfer information between doctors. Additionally, if patients have control of their medical records, they can efficiently share information and collaborate. Although not experts, patients have much more time to spend researching than a doctor who must make a judgement in minutes.
+
+
+6) What part does openness play in your idea?
+
+Every aspect of p2pdx follows an open philosophy. The platform itself is organized around the idea of platform cooperativism. The project will be run as a democratically controlled cooperative organization where members will be able to vote on operational and developmental matters.
+
+All of the software developed for p2pdx is open source. All of the data is stored in openly defined formats. This is critical as it encourages independent research and development as well as integration with other platforms, for example, OpenHumans. It will also enable the development of a broad ecosystem of apps and studies by professionals and hobbyists alike from all over the world. 
+
+The data is also decentralized in a peer to peer network. Each peer has a copy of relevant data which ensures that access to the data can never be arbitrarily cut-off or controlled by any one entity. The peer to peer topology also offers higher data availability and resilience. In addition, it allows hosting costs to be shared as bandwidth and data storage is spread across peers, without any central server. 
+
+
+
+
