@@ -1,0 +1,9 @@
+1) Tell us about the world as you see it.
+
+(A description of the status quo and context in which you will be working.)
+
+Healthcare systems around the world have major problems with access to care and outcomes. Many of the problems are driven by artificial scarcity of resources including licensing requirements. This results in a shortage of doctors which leads to structural defects in the ability to provide care. Patients who recognize this problem are largely blocked from taking their healthcare into their own hands as they cannot legally order tests or get access to prescription medication without going through a doctor.
+
+Accordingly, the diagnostic process is generally not optimized for good outcomes, but rather for patient throughput. For non-obvious cases, this often results in a wait and see approach with minimal investigation, until the condition becomes catastrophic. This approach causes a lot of harm and suffering. A study published by BMJ found the rate of medical diagnostic errors in outpatient settings to be more than 5%, of which half were estimated to potentially cause harm. There is currently limited accountability for diagnostic errors outside of malpractice lawsuits. 
+
+Another major issue is the lack of portability and patient control of medical records. It is a tedious and error-prone process to transfer information between doctors. Additionally, if patients have control of their medical records, they can efficiently share information and collaborate. Although not experts, patients have much more time to spend researching than a doctor who must make a judgement in minutes.
