@@ -9,6 +9,17 @@ Accordingly, the diagnostic process is generally not optimized for good outcomes
 Another major issue is the lack of portability and patient control of medical records. It is a tedious and error-prone process to transfer information between doctors. Additionally, if patients have control of their medical records, they can efficiently share information and collaborate. Although not experts, patients have much more time to spend researching than a doctor who must make a judgement in minutes.
 
 
+2) What change do you want to make in the world?
+
+(A description of what you want to change about the status quo, in the world, your personal vision for this area.)
+
+By giving patients the power to take their healthcare into their own hands, access and outcomes will be improved. Ownership and sharing of medical records will enable the curation of an extensive crowdsourced database for machine learning algorithms that can improve diagnostics and provide recommendations to those without access to an appropriate doctor. Additionally, diagnosis recommendations can be crowdsourced from other people similar to CrowdMed, except there would be no required fee. It would also be simple to share records with other platforms including CrowdMed or doctors if that was preffered. This would lead to a shorter time to diagnosis for difficult cases.
+
+Sharing misdiagnosis information would allow for accountability of poor performing doctors and enable discovery of systemic problems diagnosing specific diseases. These types of analyses have been very limited in mainstream literature and there is a lot of data out there waiting to be analyzed. Misdiagnosis rates can be reduced which will result in less harm to patients.
+
+The DIYBio and open hardware spaces have been expanding which will likely lead to open assays and instruments being used more and more to support diagnosis. P2pdx can support results from any of these that people decide to share. It can also support information regarding sources of affordable generic medications and lab testing. P2pdx will be a complete repository for patient empowerment.
+
+
 3) What do you believe has prevented this change to date?
 
 (Describe the innovations or questions you would like to explore during the fellowship year)
