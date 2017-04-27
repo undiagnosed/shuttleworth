@@ -9,6 +9,15 @@ Accordingly, the diagnostic process is generally not optimized for good outcomes
 Another major issue is the lack of portability and patient control of medical records. It is a tedious and error-prone process to transfer information between doctors. Additionally, if patients have control of their medical records, they can efficiently share information and collaborate. Although not experts, patients have much more time to spend researching than a doctor who must make a judgement in minutes.
 
 
+3) What do you believe has prevented this change to date?
+
+(Describe the innovations or questions you would like to explore during the fellowship year)
+
+The healthcare system is slow to change and making changes requires a lot of political capital. It is more cost-effective to take a direct action approach and make the change you want to see. A number of organizations have taken this approach to try and solve peices of the puzzle, but they all have critical flaws. PatientsLikeMe allows patients to enter and share medical data, but then sells the data to third parties and does not openly allow acccess to the data for research. The profit motive and business model is stifling innovation and many users do not approve of it.  PicnicHealth collects medical records and organizes them so they can be shared. However, a hefty initialization fee and monthly membership are required and only medical records are supported, not dental, vision, or other third party records. Additionally, no open data format exists to allow integration across platforms. Forums are frequently used for discussion between patients but are not efficient for sharing or analyzing data. 
+
+There is no open platform for entering, sharing, and analyzing health data. The closest open platform is OpenHumans which allows sharing health datasets. However, it does not address data entry, management, or analysis. P2pdx will support all of these capabilities. Additionally it will be able to integrate with OpenHumans by providing dataset snapshots that can be used for studies.
+
+
 6) What part does openness play in your idea?
 
 Every aspect of p2pdx follows an open philosophy. The platform itself is organized around the idea of platform cooperativism. The project will be run as a democratically controlled cooperative organization where members will be able to vote on operational and developmental matters.
