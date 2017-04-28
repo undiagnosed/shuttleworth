@@ -40,6 +40,13 @@ Summer 2017 is when the software is planned to be minimally usable. At this poin
 As the user base increases, more effort will be spent on getting member subscriptions as a funding source for sustaining development, maintenance, and outreach. A membership model using Patreon for recurring monthly donations is currently in use which offers different funding levels with various perks. The top level perks gives supporters the right to vote on presented developmental and operational matters consistent with coop organizational model. 
 
 
+5) What challenges or uncertainties do you expect to face?
+
+The primary challenge expected is getting enough users to join and contribute data. I have done some surveys and had discussions in online forums where people have expressed interest in the project. Additionally, I am part of the target demographic so I have a good sense of what is needed. Initially, outreach will focus on highlighting features including an organized repository of all medical records, easy to take full history to new doctors, and data visualization. There is a little bit of a chicken and egg problem as the platform appeal will grow with the amount of data contributed. This is because machine learning algorithms to support features such as anomaly detection, preventaive health alerts, and patient similarity require sufficient data in order to be implemented.
+
+There is also some uncertainty associated with ZeroNet, the underlying decentralized website platform. It is a relativley new and rapidly evolving technology. Currently it offers all of the features necessary to implement the planned p2pdx functionality. The developer is funded to work full-time on the project so development and maintenance should remain stable. The developer is also open to suggestions and contributions so if any platform changes in the future are needed to support any p2pdx function, they should be facilitated. In the unlikely case that they couldn't be, the project is open source and a fork could be made if absolutely necessary to allow p2pdx to move forward.
+
+
 6) What part does openness play in your idea?
 
 Every aspect of p2pdx follows an open philosophy. The platform itself is organized around the idea of platform cooperativism. The project will be run as a democratically controlled cooperative organization where members will be able to vote on operational and developmental matters.
