@@ -33,7 +33,7 @@ There is no open platform for entering, sharing, and analyzing health data. The 
 
 (A description of what you actually plan to do during the year.)
 
-The primary efforts for the year will be continuing to develop the software with community feedback, working to grow the user base, and recruiting donating members. A roadmap is laid out on the p2pdx GitHub page that provides an estimate for when various software features are expected to be completed for the rest of 2017. Later in the year, the roadmap will be updated for 2018. The roadmap can change depending on community feedback which can be received via Patreon, GitHub, and other patforms.
+The primary efforts for the year will be continuing to develop the software with community feedback, working to grow the user base, and recruiting donating members. A roadmap is laid out on the p2pdx GitHub page that provides an estimate for when various software features are expected to be completed for the rest of 2017. Later in the year, the roadmap will be updated for 2018. The roadmap can change depending on community feedback which can be received via Patreon, GitHub, and other platforms.
 
 Summer 2017 is when the software is planned to be minimally usable. At this point, it will be possible to work on growing the number of people contributing data. The plan is to make the case to both healthy people who are proactive with their health and people with chronic illnesses. P2pdx offers a strong value proposition which will continue to be shared with various health and patient communities online to demonstrate the benefit.
 
