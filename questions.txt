@@ -56,5 +56,9 @@ All of the software developed for p2pdx is open source. All of the data is store
 The data is also decentralized in a peer to peer network. Each peer has a copy of relevant data which ensures that access to the data can never be arbitrarily cut-off or controlled by any one entity. The peer to peer topology also offers higher data availability and resilience. In addition, it allows hosting costs to be shared as bandwidth and data storage is spread across peers, without any central server. 
 
 
+10) Who are your current or potential key partners?
+
+I currently don't have any partners supporting my work. I am not actively seeking partners besides the Shuttleworth Foundation at this time. The long-term goal is to have the work directly financed by members who benefit from it. The start-up period has been facilitated so far by donating my free time. Funding would accelerate the work, thus shortening the period before a strong value proposition could be made to users to financially support the work. At that point, it is expected that the community would sustainably fund the work for as long as it continues to provide value.
+
 
 
